@@ -2,6 +2,6 @@
     pageEncoding="ISO-8859-1"%>
 
 <div>
-This is home page
+This is home page for jenkins poc
 
 </div>
